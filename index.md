@@ -7,8 +7,8 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Hello there, and welcome to my homepage!
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+My name is Manideep Mamindlapally, and I am currently a dual-degree(Bachelors+Masters)student at Indian Institute of Technology Kharagpur, India. I am interested and have been doing a fair bit of research in Information Theory, Quantum Information Theory and Quantum Computation. I am actually now looking to apply for doctoral positions in these fields for Fall 2022.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+I just recently made this webpage. Here, I maintain a list of my publications under the [Publications]("{{ site.baseurl }}/publications") tab. To get a better insight into my life so far, you can have a look at my [curriculum vitae]("{{ site.baseurl }}/CV"). I plan on writing any ideas or thoughts that occur to me on this [blog]("{{ site.baseurl }}/blog") here as well.
