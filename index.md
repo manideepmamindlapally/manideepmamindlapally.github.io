@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-<style>body {text-align: right}</style>
+<style>body {text-align: justify}</style>
 Hello there, and welcome to my homepage!
 
 My name is Manideep Mamindlapally, and I am currently a dual-degree(Bachelors+Masters) student at **Indian Institute of Technology Kharagpur**, India. I am broadly interested in theoretical computer science research. More specifically in
