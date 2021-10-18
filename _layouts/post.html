@@ -8,7 +8,7 @@ layout: default
 
 <!-- Comments only for posts -->
 {% if page.path contains '_posts' %}
-    {% if site.comments %}
+    {% if page.comments %}
         {% if site.disqus-shortname %}
             {% include disqus.html %}
         {% endif %}
