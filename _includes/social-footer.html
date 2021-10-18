@@ -1,5 +1,13 @@
 <div class="rounded-social-buttons">
 
+{%- if site.email -%}
+<a title="{{ _locale_string_email }}"
+class="social-button email" itemprop="email"
+href="mailto:{{ site.email | encode_email }}" target="_blank">
+<i class="far fa-envelope"></i>
+</a>
+{%- endif -%}
+
 {%- if site.googlescholar -%}
 <a title="{{ _locale_string_follow | replace: '[NAME]', 'GoogleScholar' }}"
 class="social-button googlescholar"
@@ -8,11 +16,29 @@ href="https://scholar.google.com/citations?user={{ site.googlescholar }}" target
 </a>
 {%- endif -%}
 
-{%- if site.email -%}
-<a title="{{ _locale_string_email }}"
-class="social-button email" itemprop="email"
-href="mailto:{{ site.email | encode_email }}" target="_blank">
-<i class="far fa-envelope"></i>
+{%- if site.researchgate -%}
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'ResearchGate' }}"
+class="social-button researchgate"
+href="https://www.researchgate.net/profile/{{ site.researchgate }}" itemprop="sameAs"
+target="_blank">
+<i class="fab fa-researchgate"></i>
+</a>
+{%- endif -%}
+
+{%- if site.ieee -%}
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'IEEE' }}"
+class="social-button ieee"
+href="https://ieeexplore.ieee.org/author/{{ site.ieee }}" target="_blank">
+<i class="ai ai-ieee"></i>
+</a>
+{%- endif -%}
+
+{%- if site.orcid -%}
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'Orcid' }}"
+class="social-button orcid"
+href="https://orcid.org/{{ site.orcid }}" itemprop="sameAs"
+target="_blank">
+<i class="fab fa-orcid"></i>
 </a>
 {%- endif -%}
 
@@ -31,24 +57,6 @@ class="social-button github"
 href="https://www.github.com/{{ site.github }}" itemprop="sameAs"
 target="_blank">
 <i class="fab fa-github"></i>
-</a>
-{%- endif -%}
-
-{%- if site.researchgate -%}
-<a title="{{ _locale_string_follow | replace: '[NAME]', 'ResearchGate' }}"
-class="social-button researchgate"
-href="https://www.researchgate.net/profile/{{ site.researchgate }}" itemprop="sameAs"
-target="_blank">
-<i class="fab fa-researchgate"></i>
-</a>
-{%- endif -%}
-
-{%- if site.orcid -%}
-<a title="{{ _locale_string_follow | replace: '[NAME]', 'Orcid' }}"
-class="social-button orcid"
-href="https://orcid.org/{{ site.orcid }}" itemprop="sameAs"
-target="_blank">
-<i class="fab fa-orcid"></i>
 </a>
 {%- endif -%}
 

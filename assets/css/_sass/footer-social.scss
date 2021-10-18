@@ -37,7 +37,8 @@
 .fa-orcid,
 .fa-researchgate,
 .fa-envelope,
-.ai-google-scholar-square {
+.ai-google-scholar-square
+.ai-ieee {
   font-size: 25px;
 }
 
@@ -119,5 +120,14 @@
 .rounded-social-buttons .social-button.googlescholar:hover, .rounded-social-buttons .social-button.googlescholar:focus {
   background: #3b5998;
   color: #fefefe;
-  border-color: #ff0909;
+}
+
+.rounded-social-buttons .social-button.ieee {
+  background: #fcfcfc;
+  color: #3b5998;
+}
+
+.rounded-social-buttons .social-button.ieee:hover, .rounded-social-buttons .social-button.ieee:focus {
+  background: #3b5998;
+  color: #fefefe;
 }

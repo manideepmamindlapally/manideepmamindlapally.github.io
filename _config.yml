@@ -17,13 +17,14 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+facebook: "manideepyx"
+twitter: "manideepyx"
+linkedin: "manideep-mamindlapally"
+github: "manideepmamindlapally"
+researchgate: "Manideep-Mamindlapally"
+orcid: "0000-0002-8157-3972"
 googlescholar: "w-PmSxAAAAAJ"
+ieee: "37088954248"
 
 highlighter: rouge
 markdown: kramdown
