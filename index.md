@@ -12,7 +12,7 @@ published: true
 </style>
 Hello there, welcome to my homepage!
 
-My name is Manideep Mamindlapally. I am currently a final year dual-degree (Bachelors+Masters) student at **Indian Institute of Technology Kharagpur**, India. My research interests are broadly in theoretical computer science. More specifically I have been interested and doing a fair bit of research in
+My name is Manideep Mamindlapally. I am currently a final year dual-degree (Bachelors + Masters) student at **Indian Institute of Technology Kharagpur**, India. My research interests are broadly in theoretical computer science. More specifically I have been interested and doing a fair bit of research in
 -	Information Theory
 -	Cryptography
 -	Quantum Information Theory
