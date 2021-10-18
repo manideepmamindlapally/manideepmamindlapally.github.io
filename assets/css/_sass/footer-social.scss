@@ -36,7 +36,8 @@
 .fa-github,
 .fa-orcid,
 .fa-researchgate,
-.fa-envelope {
+.fa-envelope,
+.ai-google-scholar {
   font-size: 25px;
 }
 
@@ -108,4 +109,15 @@
   color: #5dd1b0;
   background: #fefefe;
   border-color: #5dd1b0;
+}
+
+.rounded-social-buttons .social-button.googlescholar {
+  background: #fcfcfc;
+  color: #49589c;
+}
+
+.rounded-social-buttons .social-button.googlescholar:hover, .rounded-social-buttons .social-button.googlescholar:focus {
+  color: #3b5998;
+  background: #fefefe;
+  border-color: #3b5998;
 }
