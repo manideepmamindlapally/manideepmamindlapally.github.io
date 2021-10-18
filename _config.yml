@@ -6,6 +6,8 @@ description: Student | IIT Kharagpur | 人の夢は　終わらねェ！
 baseurl: / #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 
+disqus-shortname: manideepmamindlapally
+
 highlighter: rouge
 markdown: kramdown
 
