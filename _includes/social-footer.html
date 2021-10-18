@@ -45,6 +45,14 @@ target="_blank">
 </a>
 {%- endif -%}
 
+{%- if site.ieee -%}
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'IEEE' }}"
+class="social-button ieee"
+href="https://ieeexplore.ieee.org/author/{{ site.ieee }}" target="_blank">
+<i class="ai ai-ieee"></i>
+</a>
+{%- endif -%}
+
 {%- if site.googlescholar -%}
 <a title="{{ _locale_string_follow | replace: '[NAME]', 'GoogleScholar' }}"
 class="social-button googlescholar"
@@ -62,13 +70,6 @@ target="_blank">
 </a>
 {%- endif -%}
 
-{%- if site.ieee -%}
-<a title="{{ _locale_string_follow | replace: '[NAME]', 'IEEE' }}"
-class="social-button ieee"
-href="https://ieeexplore.ieee.org/author/{{ site.ieee }}" target="_blank">
-<i class="ai ai-ieee"></i>
-</a>
-{%- endif -%}
 
 {%- if site.github -%}
 <a title="{{ _locale_string_follow | replace: '[NAME]', 'GitHub' }}"
