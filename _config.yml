@@ -1,12 +1,10 @@
 ### your site title here
 
 title: Manideep Mamindlapally
-description: subtitle | affiliations | motto
+description: Student | IIT Kharagpur | "Dreams never die"
 
 baseurl: / #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
-
 
 highlighter: rouge
 markdown: kramdown
