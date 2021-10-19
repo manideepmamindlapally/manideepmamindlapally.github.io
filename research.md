@@ -1,6 +1,13 @@
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+These are the research topics I have worked earlier.
 
 ## Security and Privacy - The Commitment Problem
-Commitment is a cryptographic protocol. To understand it think of an example. Courtesy [[_Winter 'et al. '03_ ](https://arxiv.org/abs/cs/0304014)]. Say there are two kids, Alice and Bob, playing a game of chess. It gets night and they decide to continue the game in the morning from the same position they leave off. However, there is one concern. If a player, say Bob were to play the last move in the night, Alice would have an entire night to think over her next move. This makes the game unfair. To do away with this problem we can ask Alice to think and write down his next move on an envelope and seal it off in the night itself. 
+Collaborators: _[Amitalok J Budkuley](http://www.facweb.iitkgp.ac.in/~amitalok/index.html)(guide), [Anuj K Yadav](https://anuj-k-yadav.github.io/), [Pranav Joshi](), [Manoj Mishra](https://www.niser.ac.in/users/manojmishra)_
+
+Commitment is a cryptographic protocol. To understand this, think of an example. Courtesy [[_Winter 'et al. '03_](https://arxiv.org/abs/cs/0304014)]. Say there are two kids, Alice and Bob, playing a game of chess. It gets night and they decide to continue the game in the morning from the same position they leave off. However, there is one concern. If a player, say Bob were to play the last move in the night, Alice would have an entire night to think over her next move. This makes the game unfair. To do away with this problem we can ask Alice to think and write down his next move on an envelope and seal it off in the night itself. This way she _commits_ to that move. Only in the morning she _reveals_ it by playing that move. Bob then verifies by opening the seal and checking the envelope. This is a raw execution of the _commitment protocol_ where a trusted third party, the sealed envelope is used.
+
+In our work we study and design commitment protocols that instead use certain "noisy" communication channels as a resource. These "noisy" channels are an interesting resource. We investigate commitment characteristics _v.i.z.,_ the rate of the protocol, the (im)possibility result for different behaviours of this noise. While doing so we also explore different noise models: DMC with cost constraints, compound channels for general input. We also look at a few interesting channels specialised for binary input: Unfair Noisy Channels, Elastic Channels, Reverse Elastic Channels. An important focus is also to design capacity rate achieving computationally efficient protocols.
+
+## Singleton Bounds for Catalytic Entanglement assisted classical  quantum error correcting codes
+Collaborators: [_Andreas Winter_](https://www.icrea.cat/Web/ScientificStaff/andreas-winter-556)_(guide)_
+
+Singleton bounds are well known and are an important bound on the parameters of _classical_ error correcting codes. It's fairly simple to derive these bounds using Shannon information theoretic properties over a classical erasure channel. Now, there has been an effort to characterise similar bounds for _quantum_ error correcting codes as well. They are 
