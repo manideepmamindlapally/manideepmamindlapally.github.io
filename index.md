@@ -18,7 +18,7 @@ My name is Manideep Mamindlapally. I am currently a final year dual-degree (Bach
 -	Quantum Information Theory
 -	Quantum Computation
 
-while working on different projects with [_Prof. Andreas Winter_](https://www.icrea.cat/Web/ScientificStaff/andreas-winter-556), [_Prof. Ligong Wong_](https://perso-etis.ensea.fr/ligong.wang/) and [_Prof. Amitalok J Budkuley_](http://www.facweb.iitkgp.ac.in/~amitalok/index.html). Check out more on the [Research](research) tab.
+while working on different projects with [_Prof. Andreas Winter_](https://www.icrea.cat/Web/ScientificStaff/andreas-winter-556), [_Prof. Ligong Wang_](https://perso-etis.ensea.fr/ligong.wang/) and [_Prof. Amitalok J Budkuley_](http://www.facweb.iitkgp.ac.in/~amitalok/index.html). Check out more on the [Research](research) tab.
 
 On this webpage here, I maintain a list of my publications under the [Publications](publications) tab. To get a better insight into my life so far have a look at my [Curriculum Vitae](CV). Or read an informal bio [about](about) me. I plan on writing any ideas or thoughts that occur to me on this [blog](blog) here as well.
 
