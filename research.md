@@ -2,7 +2,7 @@ These are the research topics I have been working on up until now.
 
 ---
 ## Security and Privacy - The Commitment Problem
-Collaborators: _[Amitalok J Budkuley](http://www.facweb.iitkgp.ac.in/~amitalok/index.html)(guide), [Anuj K Yadav](https://anuj-k-yadav.github.io/), [Pranav Joshi](), [Manoj Mishra](https://www.niser.ac.in/users/manojmishra)_
+**Collaborators:** _[Amitalok J Budkuley](http://www.facweb.iitkgp.ac.in/~amitalok/index.html)(guide), [Anuj K Yadav](https://anuj-k-yadav.github.io/), [Pranav Joshi](), [Manoj Mishra](https://www.niser.ac.in/users/manojmishra)_
 
 Commitment is a cryptographic protocol. To understand this, think of an example. Courtesy [[_Winter 'et al. '03_](https://arxiv.org/abs/cs/0304014)]. Say there are two kids, Alice and Bob, playing a game of chess. It gets night and they decide to continue the game in the morning from the same position they leave off. However, there is one concern. If a player, say Bob were to play the last move in the night, Alice would have an entire night to think over her next move. This makes the game unfair. To do away with this problem we can ask Alice to think and write down his next move on an envelope and seal it off in the night itself. This way she _commits_ to that move. Only in the morning she _reveals_ it by playing that move. Bob then verifies by opening the seal and checking the envelope. This is a raw execution of the _commitment protocol_ where a trusted third party, the sealed envelope is used.
 
@@ -10,13 +10,21 @@ In our work we study and design commitment protocols that instead use certain "n
 
 ---
 ## Singleton bounds for catalytic entanglement assisted classical  quantum error correcting codes
-Collaborators: [_Andreas Winter_](https://www.icrea.cat/Web/ScientificStaff/andreas-winter-556)_(guide)_
+**Collaborators:** [_Andreas Winter_](https://www.icrea.cat/Web/ScientificStaff/andreas-winter-556)_(guide)_
 
 Singleton bounds are well known and serve as an important performance bound on the parameters of _classical_ error correcting codes. It's fairly simple to derive these bounds using Shannon information theoretic properties over a classical erasure channel. Now, there has been an effort to characterise similar bounds for _quantum_ error correcting codes as well. Unlike just the number of bits transferred in classical communication(or information processing), the performance of a quantum communication model has three main resource components: $q$ _qbits_ of quantum information transfer, $c$ _cbits_ of classical information transfer and $e$ _ebits_ of shared entanglement. Using protocols such as _entanglement distribution_, _super dense coding_, _elementary coding_ and _quantum teleportation_, some count(amount) of some of the above resources can be seen to be at least as powerful as some count(amount) of some other resources.
 
-In our work, we model a generalised quantum communication setup where the communicating agents _Alice_ and _Bob_ start with some amount of quantum resources: $q'$ _qbits of noiseless quantum channel_; $c'$ _cbits of noiseless classical channel_; and $e'$ _ebits of shared entanglement_. Over some general quantum channel using some (error-correction) coding scheme they wish to perform :_q'bits of quantum information transfer_; _c'bits of classical information transfer_; and _e'bits of shared entanglement generation_. Using _Von Neumann_ entropies and Shannon style information theoretic properties, we characterise a **singleton bound capacity region** for the gain in amount of each of the three resources.
+In our work, we model a generalised quantum communication setup where the communicating agents _Alice_ and _Bob_ start with some amount of quantum resources: $q$ _qbits of noiseless quantum channel_; $c$ _cbits of noiseless classical channel_; and $e$ _ebits of shared entanglement_. Over some general quantum channel using some (error-correction) coding scheme they wish to perform : $q'$ _qbits of quantum information transfer_; $c'$ _cbits of classical information transfer_; and $e'$ _ebits of shared entanglement generation_. Using _Von Neumann_ entropies and Shannon style information theoretic properties, we characterise a **singleton bound capacity region** for the gain in amount of each of the three resources.
 
 ---
 ## Covert Communication over Quantum Channels
-Collaborators: [_Ligong Wang_](https://perso-etis.ensea.fr/ligong.wang/)
+**Collaborators:** _[Ligong Wang](https://perso-etis.ensea.fr/ligong.wang/)(guide)_
+
+Covert communication is a secret communication model where a sender wishes to communicate some information to the receiver over some channel without the an eavesdropper ever noticing that there was an information transfer at all. This form of communication is also known by the name Secret communication, stealth communication or communication without detection. It was seen in some earlier works that the maximum classical information transferred(_bits_) over $n$ uses of a purely classical channel, scales as $\sqrt{n}$. The same was also already studied to hold for communicating classical information over quantum channels. The focus of our work is to see if a similar relation holds for covertly transmitting, quantum information (_qbits_) over quantum channels. We are also investigating different classes of quantum channels and how the behaviour varies among them.
+
+---
+## Age of Information
+**Collaborators:** _[Amitalok J Budkuley](http://www.facweb.iitkgp.ac.in/~amitalok/index.html)(guide)_
+
+
 
