@@ -1,12 +1,5 @@
-<!-- Google Analytics Tracking code
-<script src="https://cdn.jsdelivr.net/npm/ga-lite@1/dist/ga-lite.min.js" async></script>
-<script>
-var galite = galite || {};
-galite.UA = '{{site.analytics}}';
-</script> -->
-
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-70TMRMK71X"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -14,3 +7,10 @@ galite.UA = '{{site.analytics}}';
 
   gtag('config', '{{site.analytics}}');
 </script>
+
+<!-- Google Analytics Tracking code
+<script src="https://cdn.jsdelivr.net/npm/ga-lite@1/dist/ga-lite.min.js" async></script>
+<script>
+var galite = galite || {};
+galite.UA = '{{site.analytics}}';
+</script> -->
