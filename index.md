@@ -21,7 +21,7 @@ while working on different projects with [_Prof. Andreas Winter_](https://www.ic
 - Computational Complexity
 - Quantum Computation
 
-I am currently looking for doctoral postions for doing research in these above fields.
+I am currently looking for doctoral postions for doing research in the above fields.
 
 On this webpage here, I maintain a list of my publications under the [Publications](publications) tab. To get a better insight into my life so far have a look at my [Curriculum Vitae](CV). Or read an informal bio [about](about) me. I plan on writing any ideas or thoughts that occur to me on this [blog](blog) here as well. Click on the bubbles at the bottom of the page for my academic and other social links.
 
