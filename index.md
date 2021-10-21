@@ -12,13 +12,16 @@ published: true
 </style>
 Hello there, welcome to my homepage!
 
-My name is Manideep Mamindlapally. I am currently a final year dual-degree (Bachelors + Masters) student at **Indian Institute of Technology Kharagpur**, India. My research interests are broadly in theoretical computer science. More specifically I have been interested and doing a fair bit of research in
+My name is Manideep Mamindlapally. I am currently a final year dual-degree (5 yr. Bachelors + Masters) student at **Indian Institute of Technology Kharagpur**, India. My research interests are broadly in theoretical computer science. More specifically I have been interested and am doing a fair bit of research in
 -	Information Theory
 -	Cryptography
 -	Quantum Information Theory
--	Quantum Computation
 
-while working on different projects with [_Prof. Andreas Winter_](https://www.icrea.cat/Web/ScientificStaff/andreas-winter-556), [_Prof. Ligong Wang_](https://perso-etis.ensea.fr/ligong.wang/) and [_Prof. Amitalok J Budkuley_](http://www.facweb.iitkgp.ac.in/~amitalok/index.html). Check out more on the [Research](research) tab.
+while working on different projects with [_Prof. Andreas Winter_](https://www.icrea.cat/Web/ScientificStaff/andreas-winter-556), [_Prof. Ligong Wang_](https://perso-etis.ensea.fr/ligong.wang/) and [_Prof. Amitalok J Budkuley_](http://www.facweb.iitkgp.ac.in/~amitalok/index.html). Check out more on the [Research](research) tab. I have also been reading up and am looking to explore
+- Computational Complexity
+- Quantum Computation
+
+I am currently looking for doctoral postions for research in these above fields.
 
 On this webpage here, I maintain a list of my publications under the [Publications](publications) tab. To get a better insight into my life so far have a look at my [Curriculum Vitae](CV). Or read an informal bio [about](about) me. I plan on writing any ideas or thoughts that occur to me on this [blog](blog) here as well. Click on the bubbles at the bottom of the page for my academic and other social links.
 
