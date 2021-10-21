@@ -14,10 +14,10 @@ Hello there, welcome to my homepage!
 
 My name is Manideep Mamindlapally. I am currently a final year dual-degree (5 yr. Bachelors + Masters) student at **Indian Institute of Technology Kharagpur**, India. My research interests are broadly in theoretical computer science. More specifically I have been interested and am doing a fair bit of research in
 -	Information Theory
--	Cryptography
 -	Quantum Information Theory
+-	Cryptography
 
-while working on different projects with [_Prof. Andreas Winter_](https://www.icrea.cat/Web/ScientificStaff/andreas-winter-556), [_Prof. Ligong Wang_](https://perso-etis.ensea.fr/ligong.wang/) and [_Prof. Amitalok J Budkuley_](http://www.facweb.iitkgp.ac.in/~amitalok/index.html). Check out more on the [Research](research) tab. I have also been reading up and am looking to explore
+while working on different projects with [_Prof. Andreas Winter_](https://www.icrea.cat/Web/ScientificStaff/andreas-winter-556), [_Prof. Ligong Wang_](https://perso-etis.ensea.fr/ligong.wang/) and [_Prof. Amitalok J Budkuley_](http://www.facweb.iitkgp.ac.in/~amitalok/index.html). Check out more on the [Research](research) tab. I have also been reading up and am interested in exploring
 - Computational Complexity
 - Quantum Computation
 
