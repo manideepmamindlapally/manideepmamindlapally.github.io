@@ -1,5 +1,6 @@
-$base-font-family: 'Work Sans', sans-serif;
-$base-font-size:   16px;
+// $base-font-family: 'Work Sans', sans-serif;
+$base-font-family: 'Goudy Bookletter 1911', sans-serif;
+$base-font-size:   18px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.7;
@@ -18,7 +19,7 @@ $text-color: #333;
 // Color scheme for dark modes
 $body-bg-dark: #061725;
 $projectbox-dark: lighten($body-bg-dark, 10%);
-$text-color-dark: rgb(153, 152, 152);
+$text-color-dark: rgb(134, 134, 134);
 $brand-color-dark: #60c17d;
 
 // Colour palette for project boxes

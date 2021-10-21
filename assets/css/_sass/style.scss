@@ -57,6 +57,14 @@ p a {
   -webkit-box-shadow: inset 0 0 0 0 lighten($brand-color, 10%);
   box-shadow: inset 0 0 0 0 lighten($brand-color, 10%);
 
+  @media (prefers-color-scheme: dark){
+    background: -webkit-linear-gradient(transparent 90%, lighten($brand-color-dark, 10%) 10%);
+    background: -moz-linear-gradient(transparent 90%, lighten($brand-color-dark, 10%) 10%);
+    background: linear-gradient(transparent 90%, lighten($brand-color-dark, 10%) 10%);
+
+    -webkit-box-shadow: inset 0 0 0 0 lighten($brand-color-dark, 10%);
+    box-shadow: inset 0 0 0 0 lighten($brand-color-dark, 10%);
+  }
 
   -webkit-transition: box-shadow ease 1s;
   -moz-transition: box-shadow ease 1s;
@@ -66,6 +74,9 @@ p a {
     -webkit-box-shadow: inset 0 -100px 0 0 lighten($brand-color, 10%);
     box-shadow: inset 0 -100px 0 0 lighten($brand-color, 10%);
 
+  }
+  @media (prefers-color-scheme: dark){
+    color: $text-color-dark;
   }
 }
 
