@@ -30,7 +30,7 @@ On this webpage here, I maintain a list of my publications under the [Publicatio
 ## Updates
 <div class="updates" style="height: 10em; overflow-y: scroll; text-align: left">
 
-[<i>Oct '21</i>] All done! This website up and running now. Stay tuned here for updates. <br/>
+[<i>Oct '21</i>] All done! This website is up and running now. Stay tuned here for updates. <br/>
 
 [<i>Sep '21</i>] Paper "On the Commitment Capacity of Reverse Elastic Channels" got accepted at ITW 2021. Many thanks and congrats to co-authors! <br/>
 
