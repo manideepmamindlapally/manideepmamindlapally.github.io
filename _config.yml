@@ -26,13 +26,12 @@ orcid: "0000-0002-8157-3972"
 googlescholar: "w-PmSxAAAAAJ"
 ieee: "37088954248"
 email: "manideepyx@iitkgp.ac.in"
-analytics: "G-70TMRMK71X"
 
 highlighter: rouge
 markdown: kramdown
 
 # Tracker
-analytics:
+analytics: "G-70TMRMK71X"
 
 #optimization -> compress.html
 compress_html:
