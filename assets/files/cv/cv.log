@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.2) (preloaded format=xelatex 2021.10.6)  18 OCT 2021 17:13
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.2) (preloaded format=xelatex 2021.10.6)  31 OCT 2021 23:11
 entering extended mode
 **./cv.tex
 (cv.tex
@@ -651,43 +651,33 @@ Underfull \hbox (badness 1297) in paragraph at lines 127--128
  []
 
 
-Overfull \hbox (2.94228pt too wide) in paragraph at lines 136--158
+Overfull \hbox (2.94228pt too wide) in paragraph at lines 172--198
  [][] 
+ []
+
+
+Overfull \hbox (2.94228pt too wide) in paragraph at lines 172--198
+ [] 
  []
 
 [1
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 182.
+(Font)              <9> on input line 242.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 182.
-
-Overfull \hbox (2.94228pt too wide) in paragraph at lines 182--205
- [][] 
- []
-
-
-Underfull \hbox (badness 1019) in paragraph at lines 247--247
-[]|\TU/Fontin.otf(0)/m/sc/7 Mobile Communication and Fad-
- []
-
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 247--252
- [] 
- []
-
-[2] (cv.aux)
+(Font)              <6> on input line 242.
+ [2] (cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: DF3BDE5F989D84728CED59BCFA351BCB;1377.
+(rerunfilecheck)             Checksum: F9BEA9F0E14188D28D896A6D6C12556F;1289.
  ) 
 Here is how much of TeX's memory you used:
- 17067 strings out of 411732
- 290566 string characters out of 2841320
- 675346 words of memory out of 3000000
- 36841 multiletter control sequences out of 15000+200000
- 405877 words of font info for 67 fonts, out of 3000000 for 9000
+ 17061 strings out of 411732
+ 290329 string characters out of 2841320
+ 672258 words of memory out of 3000000
+ 36838 multiletter control sequences out of 15000+200000
+ 405853 words of font info for 64 fonts, out of 3000000 for 9000
  1349 hyphenation exceptions out of 8191
- 83i,9n,89p,1193b,381s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 83i,9n,89p,1193b,323s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on cv.pdf (2 pages).
