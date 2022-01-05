@@ -4,15 +4,15 @@ Here are my research works, some published and some underway publication. Feel f
 -	**On Reverse Elastic Channels and the Asymmetry of Commitment Capacity under Channel Elasticity**\
 	_Amitalok J Budkuley, Pranav Joshi, Manideep Mamindlapally, Anuj K Yadav_ \
     IEEE Journal on Selected areas in Communication(JSAC) 2021 \
-    [Minor revision underway]
+    [Accepted]() [Pre-print: arXiv:2111.08477](https://arxiv.org/abs/2111.08477)
 -	**Commitment over Compound Binary Symmetric Channels** \
 	_Amitalok J Budkuley, Pranav Joshi, Manideep Mamindlapally, Anuj K Yadav_ \
     IEEE Transactions on Communication \
-    [Under preperation]
+    [Under preperation]()
 -	**Commitment Capacity over Constrained Channels** \
 	_Amitalok J Budkuley, Pranav Joshi, Manideep Mamindlapally, Anuj K Yadav_ \
     IEEE Transactions on Information Theory \
-    [Under preperation]
+    [Under preperation]()
 
 ## Conferences
 -	**Commitment Capacity over Constrained Channels** \
@@ -26,12 +26,12 @@ Here are my research works, some published and some underway publication. Feel f
 -	**On the Commitment Capacity of Reverse Elastic Channels**\
 	_Amitalok J Budkuley, Pranav Joshi, Manideep Mamindlapally, Anuj K Yadav_ \
     IEEE Information Theory Workshop(ITW) 2021 \
-    [Accepted & Presented]
+    [DOI: 10.1109/ITW48936.2021.9611485](https://doi.org/10.1109/ITW48936.2021.9611485)
 
 -	**On Commitment over General Compound Channels** \
 	_Anuj K Yadav, Manideep Mamindlapally, Pranav Joshi, Amitalok J Budkuley_ \
     IEEE Conference on Communication Systems and Networks (COMSNETS), 2022 
-    [Under Review]
+    [Accepted]
 
 -	**Singleton bounds for entanglement-assisted classical and quantum error correcting codes**\
 	_Manideep Mamindlapally, Andreas Winter_ \
