@@ -32,6 +32,8 @@ On this webpage here, I maintain a list of my publications under the [Publicatio
 
 [<i>Dec '21</i>] Received the Nilanjan Ganguly Memorial Award for the best Bachelor Thesis in my cohort for session 2020-21. Very happy about it! Many thanks to my supervisor Amitalok sir and other collaborators Anuj, Pranav, and Manoj sir. <br/>
 
+[<i>Dec '21</i>] Paper "On reverse elastic channels and the asymmetry of commitment capacity under channel elasticity" got accepted at JSAC 2021. This will be my first journal publication! Many thanks and congrats to co-authors! <br/>
+
 [<i>Nov '21</i>] Paper "On Commitment over General Compound Channels" got accepted at COMSNETS 2022. Many thanks and congrats to co-authors! <br/>
 
 [<i>Oct '21</i>] All done! This website is up and running now. Stay tuned here for updates. <br/>
