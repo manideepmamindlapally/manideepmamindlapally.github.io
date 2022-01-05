@@ -30,6 +30,10 @@ On this webpage here, I maintain a list of my publications under the [Publicatio
 ## Updates
 <div class="updates" style="height: 10em; overflow-y: scroll; text-align: left">
 
+[<i>Dec '21</i>] Received the Nilanjan Ganguly Memorial Award for the best Bachelor Thesis in my cohort for session 2020-21. Very happy about it! Many thanks to my supervisor Amitalok sir and other collaborators Anuj, Pranav, and Manoj sir. <br/>
+
+[<i>Sep '21</i>] Paper "On Commitment over General Compound Channels" got accepted at COMSNETS 2022. Many thanks and congrats to co-authors! <br/>
+
 [<i>Oct '21</i>] All done! This website is up and running now. Stay tuned here for updates. <br/>
 
 [<i>Sep '21</i>] Paper "On the Commitment Capacity of Reverse Elastic Channels" got accepted at ITW 2021. Many thanks and congrats to co-authors! <br/>

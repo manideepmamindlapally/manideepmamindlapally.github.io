@@ -26,13 +26,11 @@ Here are my research works, some published and some underway publication. Feel f
 -	**On the Commitment Capacity of Reverse Elastic Channels**\
 	_Amitalok J Budkuley, Pranav Joshi, Manideep Mamindlapally, Anuj K Yadav_ \
     IEEE Information Theory Workshop(ITW) 2021 \
-    [DOI: 10.1109/ITW48936.2021.9611485](https://doi.org/10.1109/ITW48936.2021.9611485)
-
+    DOI: 10.1109/ITW48936.2021.9611485 [[IEEE Xplore](https://doi.org/10.1109/ITW48936.2021.9611485)]
 -	**On Commitment over General Compound Channels** \
 	_Anuj K Yadav, Manideep Mamindlapally, Pranav Joshi, Amitalok J Budkuley_ \
     IEEE Conference on Communication Systems and Networks (COMSNETS), 2022 
-    [Accepted]
-
+    [Accepted]()
 -	**Singleton bounds for entanglement-assisted classical and quantum error correcting codes**\
 	_Manideep Mamindlapally, Andreas Winter_ \
     [Under Preperation]
