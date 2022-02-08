@@ -8,8 +8,9 @@ Unconditionally Secure Commitment Problem \
 <i class="fa fa-trophy" aria-hidden="true"></i> Won the Nilanjan Ganguly Memorial Award for the Best Bachelor Thesis in my cohort
 
 ## Teaching
+- Teaching Assistant, EC39006 _Digital Signal Processing_ laboratory course, Spring 2022, IIT Kharagpur
 - Teaching Assistant, EC60083 _Information Theory and Coding Techniques_ theory course, Autumn 2021, IIT Kharagpur
 
 ## Academic Performance
 - Dual Degree (Bachelors + Masters) \
-[Performance](assets/files/Grade_Card_IIT.pdf)
+[Current GPA: 9.23/10](assets/files/Grade_Card_IIT.pdf)

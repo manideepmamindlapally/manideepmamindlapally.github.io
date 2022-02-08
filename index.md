@@ -21,7 +21,7 @@ while working on different projects with [_Prof. Andreas Winter_](https://www.ic
 - Computational Complexity
 - Quantum Computation
 
-I am currently looking for doctoral postions for doing research in the above fields.
+I am currently looking for graduate programmes for doing research in the above fields.
 
 On this webpage here, I maintain a list of my publications under the [Publications](publications) tab. To get a better insight into my life so far have a look at my [Curriculum Vitae](CV). Or read an informal bio [about](about) me. I plan on writing any ideas or thoughts that occur to me on this [blog](blog) here as well. Click on the bubbles at the bottom of the page for my academic and other social links.
 
@@ -29,6 +29,8 @@ On this webpage here, I maintain a list of my publications under the [Publicatio
 
 ## Updates
 <div class="updates" style="height: 10em; overflow-y: scroll; text-align: left">
+
+[<i>Jan '22</i>] Won the best paper award in the Graduate Forum event at COMSNETS '22 conference. Very happy about it! Many thanks to my supervisor Amitalok sir and other collaborators Anuj and Pranav. It's the first conference I physically attended. Was a great experience! <br/>
 
 [<i>Dec '21</i>] Received the Nilanjan Ganguly Memorial Award for the best Bachelor Thesis in my cohort for session 2020-21. Very happy about it! Many thanks to my supervisor Amitalok sir and other collaborators Anuj, Pranav, and Manoj sir. <br/>
 
