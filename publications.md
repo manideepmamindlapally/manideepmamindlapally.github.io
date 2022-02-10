@@ -42,4 +42,11 @@ Here are my research works, some published and some underway publication. Feel f
     IEEE Transactions on Information Theory \
     [[Under preperation]()]
 
+## Theses
+- Bachelor Thesis 2021 \
+_Guide: Prof Amitalok J Budkuley_ \
+Unconditionally Secure Commitment Problem \
+[Read here](assets/files/prints/Bachelor_Thesis_Manideep_17EC34003/main.pdf) \
+<i class="fa fa-trophy" aria-hidden="true"></i> Won the Nilanjan Ganguly Memorial Award for the Best Bachelor Thesis in my cohort
+
 (*) - Author names in alphabetical order.
