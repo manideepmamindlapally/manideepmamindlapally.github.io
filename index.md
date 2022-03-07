@@ -30,6 +30,8 @@ On this webpage here, I maintain a list of my publications under the [Publicatio
 ## Updates
 <div class="updates" style="height: 10em; overflow-y: scroll; text-align: left">
 
+[<i>Mar '22</i>] Joined as a reviewer for the Quantum Science and Technology journal by IOPscience. <br/>
+
 [<i>Jan '22</i>] Won the best paper award in the Graduate Forum event at COMSNETS '22 conference. Very happy about it! Many thanks to my supervisor Amitalok sir and other collaborators Anuj and Pranav. It's the first conference I physically attended. Was a great experience! <br/>
 
 [<i>Dec '21</i>] Received the Nilanjan Ganguly Memorial Award for the best Bachelor Thesis in my cohort for session 2020-21. Very happy about it! Many thanks to my supervisor Amitalok sir and other collaborators Anuj, Pranav, and Manoj sir. <br/>
