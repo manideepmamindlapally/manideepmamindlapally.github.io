@@ -4,7 +4,7 @@ Here are a list of my talks and poster presentations
 - "Classical Verification of Quantum Computations" \
 A series of (online) seminar talks to Prof Rahul Jain and his theoretical CS group at Centre of Quantum Technologies, National University of Singapore \
 The talks are around two works on this topic, one by Mahadev and one by Morimae and Fitzimons \
-[Scribe]({{ site.baseurl }}/assets/files/CQT_Seminar/notes.pdf) | [Notes]({{ site.baseurl }}/assets/files/CQT_Seminar/report.pdf)
+[Scribe]({{ site.baseurl }}/assets/files/prints/CQT_Seminar/notes.pdf) | [Notes]({{ site.baseurl }}/assets/files/prints/CQT_Seminar/report.pdf)
 
 - "On Unconditionally Secure Commitment over Unreliable Noisy Channels" \
 An invited seminar talk at Technische Universität München (TUM) to Dr Christian Deppe and his group
