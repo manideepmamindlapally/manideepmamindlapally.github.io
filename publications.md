@@ -4,7 +4,7 @@ Here are my research works, some published and some underway publication. Feel f
 -	**Singleton bounds for entanglement assisted classical and quantum error correcting codes**\
 	_Manideep Mamindlapally, Andreas Winter_ \
     IEEE International Symposium on Information Theory(ISIT) 2022 \
-    [[Submitted]()] [[Pre-print(long version) arXiv:2202.02184](https://arxiv.org/abs/2202.02184)]
+    DOI: 10.1109/ISIT50566.2022.9834561 [[IEEE Xplore](https://doi.org/10.1109/ISIT50566.2022.9834561)] [[Pre-print(long version) arXiv:2202.02184](https://arxiv.org/abs/2202.02184)]
 -	**On Commitment over General Compound Channels** \
 	_Anuj K Yadav, Manideep Mamindlapally, Pranav Joshi, Amitalok J Budkuley_ \
     IEEE Conference on Communication Systems and Networks (COMSNETS), 2022 \
@@ -35,10 +35,16 @@ Here are my research works, some published and some underway publication. Feel f
     [[Pre-print(long version) arXiv:2202.02184](https://arxiv.org/abs/2202.02184)]
 
 ## Theses
+- Master Thesis 2022 \
+_Guide: Prof Amitalok J Budkuley_ \
+On Unconditionally Secure Commitment over Unreliable Noisy Channels \
+[Read here](assets/files/prints/Masters_Thesis.pdf) \
+[<i class="fa fa-trophy" aria-hidden="true"></i>]({{ site.baseurl }}/assets/files/certificates/COMSNETS_2022_award.pdf)  Won the Best Paper Award in the Graduate Forum Event at IEEE Conference on Communication Systems and Networks (COMSNETS), 2022, Bengaluru, India
+
 - Bachelor Thesis 2021 \
 _Guide: Prof Amitalok J Budkuley_ \
 Unconditionally Secure Commitment Problem \
 [Read here](assets/files/prints/Bachelor_Thesis_Manideep_17EC34003/main.pdf) \
-<i class="fa fa-trophy" aria-hidden="true"></i> Won the Nilanjan Ganguly Memorial Award for the Best Bachelor Thesis in my cohort
+[<i class="fa fa-trophy" aria-hidden="true"></i>]>]({{ site.baseurl }}/assets/files/certificates/Ganguly_Award.pdf) Was awarded the Nilanjan Ganguly Memorial Award by IIT Kharagpur for the Best Bachelor Thesis in my cohort
 
 (*) - Author names in alphabetical order.
