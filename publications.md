@@ -45,6 +45,6 @@ On Unconditionally Secure Commitment over Unreliable Noisy Channels \
 _Guide: Prof Amitalok J Budkuley_ \
 Unconditionally Secure Commitment Problem \
 [Read here](assets/files/prints/Bachelor_Thesis_Manideep_17EC34003/main.pdf) \
-[<i class="fa fa-trophy" aria-hidden="true"></i>]>]({{ site.baseurl }}/assets/files/certificates/Ganguly_Award.pdf) Was awarded the Nilanjan Ganguly Memorial Award by IIT Kharagpur for the Best Bachelor Thesis in my cohort
+[<i class="fa fa-trophy" aria-hidden="true"></i>]({{ site.baseurl }}/assets/files/certificates/Ganguly_Award.pdf) Was awarded the Nilanjan Ganguly Memorial Award by IIT Kharagpur for the Best Bachelor Thesis in my cohort
 
 (*) - Author names in alphabetical order.
