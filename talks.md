@@ -25,7 +25,7 @@ Video recordings: [_short_](https://drive.google.com/file/d/1wa_nDtqyEUFPBMkJChl
 ## Posters
 - "Singleton bounds for entanglement assisted classical and quantum error correcting codes" \
 Manideep Mamindlapally, Andreas Winter \
-(Going to) present at Quantum Information Processing (QIP) conference, 2022, Pasadena, USA (virtual)
+Presented at Quantum Information Processing (QIP) conference, 2022, Pasadena, USA (virtual)
 
 - "Commitment over Unreliable channels" \
 Manideep Mamindlapally, Anuj K Yadav, Pranav Joshi \
