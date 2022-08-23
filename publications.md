@@ -39,7 +39,7 @@ Here are my research works, some published and some underway publication. Feel f
 _Guide: Prof Amitalok J Budkuley_ \
 On Unconditionally Secure Commitment over Unreliable Noisy Channels \
 [Read here](assets/files/prints/Masters_Thesis.pdf) \
-[<i class="fa fa-trophy" aria-hidden="true"></i>]({{ site.baseurl }}/assets/files/certificates/COMSNETS_2022_award.pdf)  Won the Best Paper Award in the Graduate Forum Event at IEEE Conference on Communication Systems and Networks (COMSNETS), 2022, Bengaluru, India
+[<i class="fa fa-trophy" aria-hidden="true"></i>]({{ site.baseurl }}/assets/files/certificates/COMSNETS_2022_award.pdf)  Won the Best Paper Award in the Graduate Forum Event at IEEE Conference on Communication Systems and Networks (COMSNETS), 2022 Bengaluru, India
 
 - Bachelor Thesis 2021 \
 _Guide: Prof Amitalok J Budkuley_ \
