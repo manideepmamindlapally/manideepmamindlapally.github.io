@@ -27,7 +27,7 @@ On this webpage here, I maintain a list of my publications under the [Publicatio
 ## Updates
 <div class="updates" style="height: 10em; overflow-y: scroll; text-align: left">
 
-[<i>Aug '22</i>] Started giving a series of (online) seminar talks on a couple of previous works on "Classical Verification of Quantum Computations" to Rahul Jain's group at CQT, NUS, Singapore. [Scribe]({{ site.baseurl }}/assets/files/CQT_Seminar/notes.pdf) | [Notes]({{ site.baseurl }}/assets/files/CQT_Seminar/report.pdf)<br/>
+[<i>Aug '22</i>] Started giving a series of (online) seminar talks on a couple of previous works on "Classical Verification of Quantum Computations" to Rahul Jain's group at CQT, NUS, Singapore. (Notes under the Talks tab)<br/>
 
 [<i>Jul '22</i>] Gave an invited seminar talk "On unconditionally secure commitment over unreliable noisy channels" (my masters thesis) at TUM, Germany. Many thanks to travel support from TUM and Andreas!<br/>
 
