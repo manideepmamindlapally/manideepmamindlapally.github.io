@@ -1,6 +1,12 @@
 Here are my research works, some published and some underway publication. Feel free to contact me or my co-authors if you are interested in preprints of yet to be published work or extended versions of already published ones.
 
 ## Conferences
+--	**Commitment over Unreliable Noisy Channels: When Awareness meets Control**\
+	_Manideep Mamindlapally, Andreas Winter_ \
+    (*)_Amitalok J Budkuley, Pranav Joshi, Manideep Mamindlapally, Anuj K Yadav_ \
+    IEEE Information Theory Workshop(ITW) 2021 \
+    [[Accepted]({{ site.baseurl }})]
+
 -	**Singleton bounds for entanglement assisted classical and quantum error correcting codes**\
 	_Manideep Mamindlapally, Andreas Winter_ \
     IEEE International Symposium on Information Theory(ISIT) 2022 \
@@ -24,15 +30,20 @@ Here are my research works, some published and some underway publication. Feel f
 
 
 ## Journals
+-   **Singleton bounds for entanglement assisted classical and quantum error correcting codes**\
+	_Manideep Mamindlapally, Andreas Winter_ \
+    IEEE Transactions on Information Theory \
+    [[Under Review]({{ site.baseurl }})][[Pre-print arXiv:2202.02184](https://arxiv.org/abs/2202.02184)]
+
 -	**On Reverse Elastic Channels and the Asymmetry of Commitment Capacity under Channel Elasticity**\
 	(*)_Amitalok J Budkuley, Pranav Joshi, Manideep Mamindlapally, Anuj K Yadav_ \
     IEEE Journal on Selected areas in Communication(JSAC) 2021 \
     DOI: 10.1109/JSAC.2022.3142304[[IEEE Xplore Early Access](https://doi.org/10.1109/JSAC.2022.3142304)] [[Pre-print: arXiv:2111.08477](https://arxiv.org/abs/2111.08477)]
 
-## Manuscripts
+<!-- ## Manuscripts
 -   **Singleton bounds for entanglement assisted classical and quantum error correcting codes**\
 	_Manideep Mamindlapally, Andreas Winter_ \
-    [[Pre-print(long version) arXiv:2202.02184](https://arxiv.org/abs/2202.02184)]
+    [[Pre-print(long version) arXiv:2202.02184](https://arxiv.org/abs/2202.02184)] -->
 
 ## Theses
 - Master Thesis 2022 \
