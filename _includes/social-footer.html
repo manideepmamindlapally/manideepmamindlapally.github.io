@@ -18,7 +18,7 @@ target="_blank">
 {%- endif -%} -->
 
 {%- if site.webofscience -%}
-<a title="{{ _locale_string_follow | replace: '[NAME]', 'Orcid' }}"
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'WebOfScience(Publons)' }}"
 class="social-button webofscience"
 href="https://www.webofscience.com/wos/author/record/{{ site.webofscience }}" itemprop="sameAs"
 target="_blank">
@@ -91,9 +91,9 @@ target="_blank">
 {%- endif -%} -->
 
 {%- if site.instagram -%}
-<a title="{{ _locale_string_follow | replace: '[NAME]', 'GitHub' }}"
-class="social-button instagram"
-href="https://www.instagram.com/{{ site.instagram }}" itemprop="sameAs"
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'Instagram' }}"
+class="social-button instagram" itemprop="sameAs"
+href="https://www.instagram.com/{{ site.instagram }}"
 target="_blank">
 <i class="fab fa-instagram"></i>
 </a>
