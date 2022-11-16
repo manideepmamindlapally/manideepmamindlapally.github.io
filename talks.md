@@ -12,7 +12,7 @@ An invited guest (seminar) talk at Technische Universität München (TUM) to Dr 
 ## Conference Talks
 - "Commitment over Unreliable noisy channels: When Awareness meets control"\
 Presented at IEEE Information Theory Workshop (ITW) 2022, Mumbai, India \
-[Slides]({{ site.baseurl }}/assets/files/prints/ITW_2022/Manideep ITW 2022 v1.1.pdf) 
+[Slides](https://drive.google.com/file/d/1QpVP3NU9SxFtjxc1BveSqvj0Y9Yiy6Ey/view?usp=share_link) 
 
 - "Singleton bounds for entanglement assisted classical and quantum error correcting codes" \
 Presented at IEEE International Symposium on Information Theory (ISIT) 2022, Helsinki, Finland
