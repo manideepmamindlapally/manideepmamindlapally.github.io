@@ -8,12 +8,21 @@ href="mailto:{{ site.email | encode_email }}" target="_blank">
 </a>
 {%- endif -%}
 
-{%- if site.researchgate -%}
+<!-- {%- if site.researchgate -%}
 <a title="{{ _locale_string_follow | replace: '[NAME]', 'ResearchGate' }}"
 class="social-button researchgate"
 href="https://www.researchgate.net/profile/{{ site.researchgate }}" itemprop="sameAs"
 target="_blank">
 <i class="fab fa-researchgate"></i>
+</a>
+{%- endif -%} -->
+
+{%- if site.webofscience -%}
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'Orcid' }}"
+class="social-button webofscience"
+href="https://www.webofscience.com/wos/author/record/{{ site.webofscience }}" itemprop="sameAs"
+target="_blank">
+<i class="ai ai-publons"></i>
 </a>
 {%- endif -%}
 
@@ -26,7 +35,7 @@ target="_blank">
 </a>
 {%- endif -%}
 
-{%- if site.twitter -%}
+<!-- {%- if site.twitter -%}
 <a title="{{ _locale_string_follow | replace: '[NAME]', 'Twitter' }}"
 class="social-button twitter"
 href="https://www.twitter.com/{{ site.twitter }}" itemprop="sameAs"
@@ -43,15 +52,16 @@ href="https://www.linkedin.com/in/{{ site.linkedin }}" itemprop="sameAs"
 target="_blank">
 <i class="fab fa-linkedin"></i>
 </a>
-{%- endif -%}
+{%- endif -%} -->
 
-{%- if site.ieee -%}
+
+<!-- {%- if site.ieee -%}
 <a title="{{ _locale_string_follow | replace: '[NAME]', 'IEEE' }}"
 class="social-button ieee"
 href="https://ieeexplore.ieee.org/author/{{ site.ieee }}" target="_blank">
 <i class="ai ai-ieee"></i>
 </a>
-{%- endif -%}
+{%- endif -%} -->
 
 {%- if site.googlescholar -%}
 <a title="{{ _locale_string_follow | replace: '[NAME]', 'GoogleScholar' }}"
@@ -61,22 +71,31 @@ href="https://scholar.google.com/citations?user={{ site.googlescholar }}" target
 </a>
 {%- endif -%}
 
-{%- if site.facebook -%}
+<!-- {%- if site.facebook -%}
 <a title="{{ _locale_string_follow | replace: '[NAME]', 'Facebook' }}"
 class="social-button facebook" itemprop="sameAs"
 href="https://www.facebook.com/{{ site.facebook }}"
 target="_blank">
 <i class="fab fa-facebook-f"></i>
 </a>
-{%- endif -%}
+{%- endif -%} -->
 
 
-{%- if site.github -%}
+<!-- {%- if site.github -%}
 <a title="{{ _locale_string_follow | replace: '[NAME]', 'GitHub' }}"
 class="social-button github"
 href="https://www.github.com/{{ site.github }}" itemprop="sameAs"
 target="_blank">
 <i class="fab fa-github"></i>
+</a>
+{%- endif -%} -->
+
+{%- if site.instagram -%}
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'GitHub' }}"
+class="social-button instagram"
+href="https://www.instagram.com/{{ site.instagram }}" itemprop="sameAs"
+target="_blank">
+<i class="fab fa-instagram"></i>
 </a>
 {%- endif -%}
 
