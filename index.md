@@ -12,13 +12,13 @@ published: true
 </style>
 Hello there, welcome to my webpage! :D
 
-My name is Manideep Mamindlapally. If you are not a fan of polysyllables, simply call me "Mani". I'll respond. I am currently a Junior Research Fellow at Tata Institute of Fundamental Research, India, where I am working with [_Akshayaram Srinivasan_](https://www.tifr.res.in/~akshayaram.srinivasan/). Recently, I graduated from a dual-degree (5 yr. Bachelors + Masters) programme at **Indian Institute of Technology Kharagpur**, India where I was supervised by [_Amitalok J Budkuley_](http://www.facweb.iitkgp.ac.in/~amitalok/index.html). My research interests are broadly in theoretical computer science. More specifically I have been interested and am doing a fair bit of research in
+My name is Manideep Mamindlapally, pronounced "ma-ni-dheep ma-min-la-pa-lly" or I'll save you the trouble, simply call me "Mani". I'll respond. I am currently a Junior Research Fellow at Tata Institute of Fundamental Research, India, where I am working with [_Akshayaram Srinivasan_](https://www.tifr.res.in/~akshayaram.srinivasan/). Recently, I graduated from a dual-degree (5 yr. Bachelors + Masters) programme at **Indian Institute of Technology Kharagpur**, India where I was supervised by [_Amitalok J Budkuley_](http://www.facweb.iitkgp.ac.in/~amitalok/index.html). My research interests are broadly in theoretical computer science. More specifically I have been interested and am doing a fair bit of research in
 - Quantum Complexity Theory
 - Quantum Information Theory
 -	Information Theory
 - Cryptography
 
-while working on different projects with [_Amitalok J Budkuley_](http://www.facweb.iitkgp.ac.in/~amitalok/index.html), [_Andreas Winter_](https://www.icrea.cat/Web/ScientificStaff/andreas-winter-556), [_Ligong Wang_](https://perso-etis.ensea.fr/ligong.wang/) and [_Akshayaram Srinivasan_](https://www.tifr.res.in/~akshayaram.srinivasan/) and exploring few other research topics independently. Check out more on the [Research](research) tab. 
+while working on different projects with [_Amitalok J Budkuley_](http://www.facweb.iitkgp.ac.in/~amitalok/index.html), [_Andreas Winter_](https://www.icrea.cat/Web/ScientificStaff/andreas-winter-556), [_Ligong Wang_](https://perso-etis.ensea.fr/ligong.wang/) and [_Akshayaram Srinivasan_](https://www.tifr.res.in/~akshayaram.srinivasan/) and exploring some topics independently. Check out more on the [Research](research) tab. 
 
 Thanks to some sweet people, I got the opportunity to travel, give invited guest talks and seminar talks at some places (See more on [Talks](talks) tab). I have been a reviewer for ITW 2022 conference and TransIT journal. On this webpage here, I maintain a list of my publications under the [Publications](publications) tab. To get a better insight into my life so far have a look at my [Curriculum Vitae](CV). Click on the bubbles at the bottom of the page for my academic and other social links.
 
@@ -27,7 +27,7 @@ Outside of Academic life, I often find myself engrossed in drawing. I always enj
 ---
 
 ## Updates
-<div class="updates" style="height: 10em; overflow-y: scroll; text-align: left">
+<div class="updates" style="height: 20em; overflow-y: scroll; text-align: left">
 
 [<i>Nov '22</i>] Attended ITW 2022 held at IIT Bombay, where I presented my paper on "Commitment over Unreliable Channels: When Awareness meets Control". I also volunteered for the first time at a conference. Assisting chairs, organising events and meeting lots of academics. It was fun and went mostly smooth, except for a couple of embarassing stints :).<br/> <br/>
 
