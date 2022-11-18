@@ -59,3 +59,5 @@ Unconditionally Secure Commitment Problem \
 [<i class="fa fa-trophy" aria-hidden="true"></i>]({{ site.baseurl }}/assets/files/certificates/NilanjanGanguly_Award.pdf) Was awarded the Nilanjan Ganguly Memorial Award by IIT Kharagpur for the Best Bachelor Thesis in my cohort
 
 (*) - Author names in alphabetical order.
+
+---
