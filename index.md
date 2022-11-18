@@ -12,7 +12,7 @@ published: true
 </style>
 Hello there, welcome to my webpage! :D
 
-My name is Manideep Mamindlapally, pronounced "ma-ni-dheep ma-min-la-pa-lly" or I'll save you the trouble, simply call me "Mani". I'll respond. I am currently a Junior Research Fellow at Tata Institute of Fundamental Research, India, where I am working with [_Akshayaram Srinivasan_](https://www.tifr.res.in/~akshayaram.srinivasan/). Recently, I graduated from a dual-degree (5 yr. Bachelors + Masters) programme at **Indian Institute of Technology Kharagpur**, India where I was supervised by [_Amitalok J Budkuley_](http://www.facweb.iitkgp.ac.in/~amitalok/index.html). My research interests are broadly in theoretical computer science. More specifically I have been interested and am doing a fair bit of research in
+My name is Manideep Mamindlapally, pronounced "ma-ni-dheep ma-min-la-pa-lly" or simply call me "Mani". I'll respond. I am currently a Junior Research Fellow at Tata Institute of Fundamental Research, India, where I am working with [_Akshayaram Srinivasan_](https://www.tifr.res.in/~akshayaram.srinivasan/). Recently, I graduated from a dual-degree (5 yr. Bachelors + Masters) programme at **Indian Institute of Technology Kharagpur**, India where I was supervised by [_Amitalok J Budkuley_](http://www.facweb.iitkgp.ac.in/~amitalok/index.html). My research interests are broadly in theoretical computer science. More specifically I have been interested and am doing a fair bit of research in
 - Quantum Complexity Theory
 - Quantum Information Theory
 -	Information Theory
@@ -22,7 +22,7 @@ while working on different projects with [_Amitalok J Budkuley_](http://www.facw
 
 Thanks to some sweet people, I got the opportunity to travel, give invited guest talks and seminar talks at some places (See more on [Talks](talks) tab). I have been a reviewer for ITW 2022 conference and TransIT journal. On this webpage here, I maintain a list of my publications under the [Publications](publications) tab. To get a better insight into my life so far have a look at my [Curriculum Vitae](CV). Click on the bubbles at the bottom of the page for my academic and other social links.
 
-Outside of Academic life, I often find myself engrossed in drawing. I always enjoyed scribbling doodles and cartoons on the corners of my class notes. Recently, I started doing digital art on my iPad. I upload on Instagram [@manideep_doodles](https://www.instagram.com/{{ site.instagram }}), where I am grateful for the support I am receiving. You can also check out the [Art](art) tab. I am a big fan of some shonen anime series. I religiously follow "One Piece". It has influenced my life and actions in many ways. The photo above here is actually me cosplaying as Monkey D Luffy, the series' protagonist.
+Outside of Academic life, I often find myself engrossed in drawing. I always enjoyed scribbling doodles and cartoons on the corners of my class notes. Recently, I started doing digital art which I am uploading on Instagram [@manideep_doodles](https://www.instagram.com/{{ site.instagram }}). You can also check out the [Art](art) tab. I am a big fan of some Shonen anime series. I religiously follow the anime and manga of "One Piece". It has influenced my life and actions in many ways. The photo above here is me cosplaying as Monkey D Luffy, the series' protagonist.
 
 ---
 

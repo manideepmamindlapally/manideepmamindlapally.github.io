@@ -1,7 +1,7 @@
 Here are my research works, some published and some underway publication. Feel free to contact me or my co-authors if you are interested in preprints of yet to be published work or extended versions of already published ones.
 
 ## Conferences
---	**Commitment over Unreliable Noisy Channels: When Awareness meets Control**\
+-	**Commitment over Unreliable Noisy Channels: When Awareness meets Control**\
 	_Manideep Mamindlapally, Andreas Winter_ \
     (*)_Amitalok J Budkuley, Pranav Joshi, Manideep Mamindlapally, Anuj K Yadav_ \
     IEEE Information Theory Workshop(ITW) 2021 \
