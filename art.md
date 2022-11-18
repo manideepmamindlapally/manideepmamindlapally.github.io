@@ -1,4 +1,4 @@
-Webpage underwork. You can check out my Instagram page [@manideep_doodles](https://www.instagram.com/manideep_doodles/).
+This is my Instagram feed [@manideep_doodles](https://www.instagram.com/manideep_doodles/) (Powered by Curator.io)
 
 <div id="curator-feed-default-feed-layout"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a></div><!-- The Javascript can be moved to the end of the html page before the </body> tag --><script type="text/javascript">
 /* curator-feed-default-feed-layout */
