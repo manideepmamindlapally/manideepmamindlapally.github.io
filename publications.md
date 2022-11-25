@@ -1,6 +1,19 @@
 # Publications
 Here are my research works, some published and some underway publication. Feel free to contact me or my co-authors if you are interested in preprints of yet to be published work or extended versions of already published ones.
 
+### Journals
+-   **Singleton bounds for entanglement assisted classical and quantum error correcting codes**\
+	_Manideep Mamindlapally, [Andreas Winter](https://www.icrea.cat/Web/ScientificStaff/andreas-winter-556)_ \
+    IEEE Transactions on Information Theory \
+    [[Under Review]({{ site.baseurl }})][[Pre-print arXiv:2202.02184](https://arxiv.org/abs/2202.02184)]
+
+-	**On Reverse Elastic Channels and the Asymmetry of Commitment Capacity under Channel Elasticity**\
+	(*)_[Amitalok J Budkuley](http://www.facweb.iitkgp.ac.in/~amitalok/index.html), [Pranav Joshi](), Manideep Mamindlapally, [Anuj K Yadav](https://anujkryadav.github.io/)_ \
+    IEEE Journal on Selected areas in Communication(JSAC) 2021 \
+    (Spl. Issue: Private Information Retrieval, Private Coded Computing over Distributed Servers, and Privacy in Distributed Learning) \
+    DOI: 10.1109/JSAC.2022.3142304[[IEEE Xplore Early Access](https://doi.org/10.1109/JSAC.2022.3142304)] [[Pre-print: arXiv:2111.08477](https://arxiv.org/abs/2111.08477)] \
+_Featured in [IEEE ComSoc's Selected Ideas on Communications Blog](https://www.comsoc.org/publications/blogs/selected-ideas-communications/detecting-cheaters-digital-interactions-using-noisy-channels-and-error-control-coding) by Editor in Chief, IEEE JSAC._
+
 ### Conferences
 -	**Commitment over Unreliable Noisy Channels: When Awareness meets Control**\
 	_Manideep Mamindlapally, [Andreas Winter](https://www.icrea.cat/Web/ScientificStaff/andreas-winter-556)_ \
@@ -28,18 +41,6 @@ Here are my research works, some published and some underway publication. Feel f
 	_Manideep Mamindlapally, [Anuj K Yadav](https://anujkryadav.github.io/), [Manoj Mishra](https://www.niser.ac.in/users/manojmishra), [Amitalok J Budkuley](http://www.facweb.iitkgp.ac.in/~amitalok/index.html)_ \
     IEEE International Symposium on Information Theory(ISIT) 2021 \
     DOI: 10.1109/ISIT45174.2021.9518204 [[IEEE Xplore](https://doi.org/10.1109/ISIT45174.2021.9518204)]
-
-
-### Journals
--   **Singleton bounds for entanglement assisted classical and quantum error correcting codes**\
-	_Manideep Mamindlapally, [Andreas Winter](https://www.icrea.cat/Web/ScientificStaff/andreas-winter-556)_ \
-    IEEE Transactions on Information Theory \
-    [[Under Review]({{ site.baseurl }})][[Pre-print arXiv:2202.02184](https://arxiv.org/abs/2202.02184)]
-
--	**On Reverse Elastic Channels and the Asymmetry of Commitment Capacity under Channel Elasticity**\
-	(*)_[Amitalok J Budkuley](http://www.facweb.iitkgp.ac.in/~amitalok/index.html), [Pranav Joshi](), Manideep Mamindlapally, [Anuj K Yadav](https://anujkryadav.github.io/)_ \
-    IEEE Journal on Selected areas in Communication(JSAC) 2021 \
-    DOI: 10.1109/JSAC.2022.3142304[[IEEE Xplore Early Access](https://doi.org/10.1109/JSAC.2022.3142304)] [[Pre-print: arXiv:2111.08477](https://arxiv.org/abs/2111.08477)]
 
 <!-- ## Manuscripts
 -   **Singleton bounds for entanglement assisted classical and quantum error correcting codes**\
