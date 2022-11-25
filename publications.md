@@ -16,7 +16,6 @@ _Featured in [IEEE ComSoc's Selected Ideas on Communications Blog](https://www.c
 
 ### Conferences
 -	**Commitment over Unreliable Noisy Channels: When Awareness meets Control**\
-	_Manideep Mamindlapally, [Andreas Winter](https://www.icrea.cat/Web/ScientificStaff/andreas-winter-556)_ \
     (*)_[Amitalok J Budkuley](http://www.facweb.iitkgp.ac.in/~amitalok/index.html), [Pranav Joshi](), Manideep Mamindlapally, [Anuj K Yadav](https://anujkryadav.github.io/)_ \
     IEEE Information Theory Workshop(ITW) 2021 \
     [[Accepted]({{ site.baseurl }})]
