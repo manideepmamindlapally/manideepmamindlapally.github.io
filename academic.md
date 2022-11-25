@@ -1,3 +1,4 @@
+# Academic
 
 ## Theses
 - Master Thesis 2022 \

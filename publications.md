@@ -1,3 +1,4 @@
+# Publications
 Here are my research works, some published and some underway publication. Feel free to contact me or my co-authors if you are interested in preprints of yet to be published work or extended versions of already published ones.
 
 ## Conferences
