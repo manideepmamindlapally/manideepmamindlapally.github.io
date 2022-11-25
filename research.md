@@ -1,7 +1,7 @@
+# Research
 <style>
   body {text-align: justify}
 </style>
-# Research
 
 My research can be summarised into the following themes. Over the last few years of my undergrad I was working on a couple of projects in **Information Theory**. Over a couple of internships, I was also worked on two **Quantum Information Theory** projects. Recently, as a JRF (at TIFR) I have been working on a **Cryptography** related topic. Independently, I have also been reading up papers and have been interested in **Complexity theory** areas in **quantum**. This is the topic I am currently interested in for my PhD, which I am planning to apply soon.
 
