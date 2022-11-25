@@ -1,7 +1,7 @@
 # Publications
 Here are my research works, some published and some underway publication. Feel free to contact me or my co-authors if you are interested in preprints of yet to be published work or extended versions of already published ones.
 
-## Conferences
+### Conferences
 -	**Commitment over Unreliable Noisy Channels: When Awareness meets Control**\
 	_Manideep Mamindlapally, Andreas Winter_ \
     (*)_Amitalok J Budkuley, Pranav Joshi, Manideep Mamindlapally, Anuj K Yadav_ \
@@ -30,7 +30,7 @@ Here are my research works, some published and some underway publication. Feel f
     DOI: 10.1109/ISIT45174.2021.9518204 [[IEEE Xplore](https://doi.org/10.1109/ISIT45174.2021.9518204)]
 
 
-## Journals
+### Journals
 -   **Singleton bounds for entanglement assisted classical and quantum error correcting codes**\
 	_Manideep Mamindlapally, Andreas Winter_ \
     IEEE Transactions on Information Theory \
@@ -46,7 +46,7 @@ Here are my research works, some published and some underway publication. Feel f
 	_Manideep Mamindlapally, Andreas Winter_ \
     [[Pre-print(long version) arXiv:2202.02184](https://arxiv.org/abs/2202.02184)] -->
 
-## Theses
+### Theses
 - Master Thesis 2022 \
 _Guide: Prof Amitalok J Budkuley_ \
 On Unconditionally Secure Commitment over Unreliable Noisy Channels \

@@ -1,6 +1,7 @@
 # Academic
+This is a summary of my undergraduate academic performance
 
-## Theses
+### Theses
 - Master Thesis 2022 \
 _Guide: Prof Amitalok J Budkuley_ \
 On Unconditionally Secure Commitment over Unreliable Noisy Channels \
@@ -13,11 +14,11 @@ Unconditionally Secure Commitment Problem \
 [Read here](assets/files/prints/Bachelor_Thesis_Manideep_17EC34003/main.pdf) \
 [<i class="fa fa-trophy" aria-hidden="true"></i>](assets/files/certificates/NilanjanGanguly_Award.pdf) Was awarded the Nilanjan Ganguly Memorial Award by IIT Kharagpur for the Best Bachelor Thesis in my cohort
 
-## Teaching
+### Teaching
 - Teaching Assistant, EC39006 _Digital Signal Processing_ laboratory course, Spring 2022, IIT Kharagpur
 - Teaching Assistant, EC60083 _Information Theory and Coding Techniques_ theory course, Autumn 2021, IIT Kharagpur
 
-## Academic Performance
+### Academic Performance
 - Dual Degree (Bachelors + Masters) \
 _BTech Major:_ Electronics and Electrical Communication Engineering \
 _MTech Specialisation:_ Telecommunications and Systems Engineering  \
