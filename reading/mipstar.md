@@ -1,6 +1,6 @@
 ---
-layout: noheader
 title: MIP*=RE
+layout: noheader
 ---
 
 # Reading group on the MIP*=RE result
