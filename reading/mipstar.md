@@ -1,4 +1,5 @@
 ---
+layout: noheader
 title: MIP*=RE
 ---
 
