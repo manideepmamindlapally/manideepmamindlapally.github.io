@@ -29,7 +29,7 @@ Outside of Academic life, I often find myself engrossed in drawing. I always enj
 ## Updates
 <div class="updates" style="height: 20em; overflow-y: scroll; text-align: left">
 
-[<i>Dec '22</i>] Started a reading group with Pranab Sen and Upendra Kapshikar on "MIP*=RE" result (More on [webpage]({{ site.baseurl }}/reading/mipstar]). Please let me know if you are interested to join!<br/> <br/>
+[<i>Dec '22</i>] Started a reading group with Pranab Sen and Upendra Kapshikar on "MIP*=RE" result (More on "Talks" tab). Please let me know if you are interested to join!<br/> <br/>
 
 [<i>Nov '22</i>] Attended ITW 2022 held at IIT Bombay, where I presented my paper on "Commitment over Unreliable Channels: When Awareness meets Control". I also volunteered for the first time at a conference. Assisting chairs, organising events and meeting lots of academics. It was fun and went mostly smooth, except for a couple of embarassing stints :).<br/> <br/>
 
