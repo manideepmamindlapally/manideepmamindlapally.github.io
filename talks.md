@@ -1,6 +1,9 @@
 # Talks
 Here are a list of my talks, presentations and reading groups that I am part of.
 
+<span style="color:red"> ANNOUNCEMENT: </span>
+We are starting a reading group on "MIP*=RE" paper. More info on [webpage]([Reading group webpage]({{ site.baseurl }}/reading/mipstar).
+
 ### Invited (Seminar) Talks
 - "Classical Verification of Quantum Computations" \
 A series of (online) seminar talks to Prof Rahul Jain and his theoretical CS group at Centre of Quantum Technologies, National University of Singapore \
