@@ -2,7 +2,7 @@
 Here are a list of my talks, presentations and reading groups that I am part of.
 
 <span style="color:red"> ANNOUNCEMENT: </span>
-We are starting a reading group on "MIP*=RE" paper. More info on [webpage]([Reading group webpage]({{ site.baseurl }}/reading/mipstar).
+We are starting a reading group on "MIP*=RE" paper. More info on [webpage]({{ site.baseurl }}/reading/mipstar).
 
 ### Invited (Seminar) Talks
 - "Classical Verification of Quantum Computations" \
@@ -16,7 +16,7 @@ An invited guest (seminar) talk at Technische Universität München (TUM) to Dr 
 ### Reading Group
 - "MIP*=RE" \
 Organising a reading group at TIFR along with [Pranab Sen](https://www.tcs.tifr.res.in/~pgdsen/) and [Upendra Kapshikar](https://www.quantumlah.org/people/profile/Upendra) to understand the celebrated recent result "MIP*=RE" and its precursor works. \
-[Reading group webpage]({{ site.baseurl }}/reading/mipstar)
+[[Webpage]({{ site.baseurl }}/reading/mipstar)]
 
 ### Conference Talks
 - "Commitment over Unreliable noisy channels: When Awareness meets control"\
