@@ -1,5 +1,5 @@
 # Talks
-Here are a list of my talks and poster presentations
+Here are a list of my talks, presentations and reading groups that I am part of.
 
 ### Invited (Seminar) Talks
 - "Classical Verification of Quantum Computations" \
@@ -9,6 +9,11 @@ The talks are around two works on this topic, one by Mahadev and one by Morimae 
 
 - "On Unconditionally Secure Commitment over Unreliable Noisy Channels" \
 An invited guest (seminar) talk at Technische Universität München (TUM) to Dr Christian Deppe and his group
+
+### Reading Group
+- "MIP*=RE" \
+Organising a reading group at TIFR along with [Pranab Sen](https://www.tcs.tifr.res.in/~pgdsen/) and [Upendra Kapshikar](https://www.quantumlah.org/people/profile/Upendra) to understand the celebrated recent result "MIP*=RE" and its precursor works. \
+[Reading group webpage]({{ site.baseurl }}/reading/mipstar)
 
 ### Conference Talks
 - "Commitment over Unreliable noisy channels: When Awareness meets control"\
