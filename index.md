@@ -22,7 +22,7 @@ while working on different projects with [_Amitalok J Budkuley_](http://www.facw
 
 Thanks to some sweet people, I got the opportunity to travel, give invited guest talks and seminar talks at some places (See more on [Talks](talks) tab). I have been a reviewer for ITW 2022 conference and TransIT journal. On this webpage here, I maintain a list of my publications under the [Publications](publications) tab. To get a better insight into my life so far have a look at my [Curriculum Vitae](CV). Click on the bubbles at the bottom of the page for my academic and other social links.
 
-Outside of Academic life, I often find myself engrossed in drawing. I always enjoyed scribbling doodles and cartoons on the corners of my class notes. Recently, I started doing digital art which I am uploading on Instagram [@manideep_doodles](https://www.instagram.com/{{ site.instagram }}). You can also check out the [Art](art) tab. I am a big fan of some Shonen anime series. I religiously follow the anime and manga of "One Piece". It has influenced my life and actions in many ways. The photo above here is me cosplaying as Monkey D Luffy, the series' protagonist.
+Outside of Academic life, I often find myself engrossed in drawing. I always enjoyed scribbling doodles and cartoons on the corners of my class notes. Recently, I started doing digital art which I am uploading on Instagram [@manideep_doodles](https://www.instagram.com/{{ site.instagram }}). You can also check out the [Art](art) tab. I am a big fan of some Shounen anime/manga series, such as "One Piece" which I religiously follow. It has influenced my life in many ways. The photo above here is me cosplaying as Monkey D Luffy, the series' protagonist.
 
 ---
 
