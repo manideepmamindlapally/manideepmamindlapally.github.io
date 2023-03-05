@@ -12,24 +12,24 @@ published: true
 </style>
 Hello there, welcome to my webpage! :D
 
-My name is Manideep Mamindlapally, pronounced "ma-ni-dheep ma-min-la-pa-lly" or simply call me "Mani". I'll respond. I am currently a Junior Research Fellow at Tata Institute of Fundamental Research, India, where I am working with [_Akshayaram Srinivasan_](https://www.tifr.res.in/~akshayaram.srinivasan/). Recently, I graduated from a dual-degree (5 yr. Bachelors + Masters) programme at **Indian Institute of Technology Kharagpur**, India where I was supervised by [_Amitalok J Budkuley_](http://www.facweb.iitkgp.ac.in/~amitalok/index.html). My research interests are broadly in theoretical computer science. More specifically I have been interested and am doing a fair bit of research in
+My name is Manideep Mamindlapally, pronounced "ma-ni-dheep ma-min-la-pa-lly" or simply call me "Mani". I'll respond. I am currently a Junior Research Fellow at Tata Institute of Fundamental Research, India, where I am working with [_Pranab Sen_](https://www.tcs.tifr.res.in/~pgdsen/) and [_Akshayaram Srinivasan_](https://www.tifr.res.in/~akshayaram.srinivasan/). Recently, I graduated from a dual-degree (5 yr. Bachelors + Masters) programme at **Indian Institute of Technology Kharagpur**, India where I was supervised by [_Amitalok J Budkuley_](http://www.facweb.iitkgp.ac.in/~amitalok/index.html). My research interests are broadly in theoretical computer science. More specifically I have been interested and am doing a fair bit of research in
 - Quantum Complexity Theory
 - Quantum Information Theory
--	Information Theory
+- Information Theory
 - Cryptography
 
 while working on different projects with [_Amitalok J Budkuley_](http://www.facweb.iitkgp.ac.in/~amitalok/index.html), [_Andreas Winter_](https://www.icrea.cat/Web/ScientificStaff/andreas-winter-556), [_Ligong Wang_](https://perso-etis.ensea.fr/ligong.wang/) and [_Akshayaram Srinivasan_](https://www.tifr.res.in/~akshayaram.srinivasan/) and exploring some topics independently. Check out more on the [Research](research) tab. 
 
-Thanks to some sweet people, I got the opportunity to travel, give invited guest talks and seminar talks at some places (See more on [Talks](talks) tab). I have been a reviewer for ITW 2022 conference and TransIT journal. On this webpage here, I maintain a list of my publications under the [Publications](publications) tab. To get a better insight into my life so far have a look at my [Curriculum Vitae](CV). Click on the bubbles at the bottom of the page for my academic and other social links.
+On this webpage here, I maintain a list of my publications under the [Publications](publications) tab and some talks under the [Talks](talks) tab. To get a better insight into my life so far have a look at my [Curriculum Vitae](CV). Click on the bubbles at the bottom of the page for my academic and other social links.
 
-Outside of Academic life, I often find myself engrossed in drawing. I always enjoyed scribbling doodles and cartoons on the corners of my class notes. Recently, I started doing digital art which I am uploading on Instagram [@manideep_doodles](https://www.instagram.com/{{ site.instagram }}). You can also check out the [Art](art) tab. I am a big fan of some Shounen anime/manga series, such as "One Piece" which I religiously follow. It has influenced my life in many ways. The photo above here is me cosplaying as Monkey D Luffy, the series' protagonist.
+Outside of Academic life, I often find myself engrossed in drawing. I always enjoyed scribbling doodles and cartoons on the corners of my class notes. Recently, I started doing digital art which I am uploading on Instagram [@manideep_doodles](https://www.instagram.com/{{ site.instagram }}). You can also check out the [Art](art) tab. I am a big fan of some Shounen anime/manga series, such as "One Piece" which I religiously follow. The photo above here is me cosplaying as Monkey D Luffy, the series' protagonist.
 
 ---
 
 ## Updates
 <div class="updates" style="height: 20em; overflow-y: scroll; text-align: left">
 
-[<i>Dec '22</i>] Started a reading group with Pranab Sen and Upendra Kapshikar on "MIP*=RE" result (More on "Talks" tab). Please let me know if you are interested to join!<br/> <br/>
+[<i>Dec '22</i>] Started a reading group with Pranab Sen and Upendra Kapshikar on "MIPstar=RE" result (More on "Talks" tab). Please let me know if you are interested to join!<br/> <br/>
 
 [<i>Nov '22</i>] Attended ITW 2022 held at IIT Bombay, where I presented my paper on "Commitment over Unreliable Channels: When Awareness meets Control". I also volunteered for the first time at a conference. Assisting chairs, organising events and meeting lots of academics. It was fun and went mostly smooth, except for a couple of embarassing stints :).<br/> <br/>
 
