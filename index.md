@@ -12,15 +12,19 @@ published: true
 </style>
 Hello there, welcome to my webpage! :D
 
-My name is Manideep Mamindlapally, pronounced "ma-ni-dheep ma-min-la-pa-lly" or simply call me "Mani". I'll respond. I am currently a Junior Research Fellow at Tata Institute of Fundamental Research, India, where I am working with [_Pranab Sen_](https://www.tcs.tifr.res.in/~pgdsen/) and [_Akshayaram Srinivasan_](https://www.tifr.res.in/~akshayaram.srinivasan/). Recently, I graduated from a dual-degree (5 yr. Bachelors + Masters) programme at **Indian Institute of Technology Kharagpur**, India where I was supervised by [_Amitalok J Budkuley_](http://www.facweb.iitkgp.ac.in/~amitalok/index.html). My research interests are broadly in theoretical computer science. More specifically I have been interested and am doing a fair bit of research in
-- Quantum Complexity Theory
-- Quantum Information Theory
-- Information Theory
-- Cryptography
+My name is Manideep Mamindlapally, pronounced "ma-ni-dheep ma-min-la-pa-lly" or simply call me "Mani". 
+I'll respond. 
+I am currently a first year PhD student working at QuSoft in CWI (Centrum Wiskunde Mathematica), The Netherlands (Although I am technically employed by the University of Amseterdam which is across the street.) 
+I am co-supervised by  [_Stacey Jeffery_](https://homepages.cwi.nl/~jeffery/) and [_Florian Speelmann_](https://www.cwi.nl/en/people/florian-speelman/).
 
-while working on different projects with [_Amitalok J Budkuley_](http://www.facweb.iitkgp.ac.in/~amitalok/index.html), [_Andreas Winter_](https://www.icrea.cat/Web/ScientificStaff/andreas-winter-556), [_Ligong Wang_](https://perso-etis.ensea.fr/ligong.wang/) and [_Akshayaram Srinivasan_](https://www.tifr.res.in/~akshayaram.srinivasan/) and exploring some topics independently. Check out more on the [Research](research) tab. 
+Prior to joining QuSoft, I worked for a few months as a Junior Research Fellow at Tata Institute of Fundamental Research, India, with [_Pranab Sen_](https://www.tcs.tifr.res.in/~pgdsen/) and [_Akshayaram Srinivasan_](https://www.tifr.res.in/~akshayaram.srinivasan/). 
+Before that I had done a dual-degree (5 yr. Bachelors + Masters) programme in Electronics engineering at **Indian Institute of Technology Kharagpur**, India where I was supervised by [_Amitalok J Budkuley_](http://www.facweb.iitkgp.ac.in/~amitalok/index.html). 
+During my final year, I worked with [_Andreas Winter_](https://www.icrea.cat/en/Web/ScientificStaff/awinter-556) on a summer project.
 
-On this webpage here, I maintain a list of my publications under the [Publications](publications) tab and some talks under the [Talks](talks) tab. To get a better insight into my life so far have a look at my [Curriculum Vitae](CV). Click on the bubbles at the bottom of the page for my academic and other social links.
+I got introduced to academic research through my undergrad research in an Information Theoretic problem called "Commitment" for my bachelor thesis and then through a summer project in Quantum Information Theory.
+I had breifly studied some classical cryptography works, quantum interactive proofs and non-local games during my stay at TIFR.
+
+Currently at QuSoft, I am working on a couple of Quantum Algorthimic problems. Although I am still continuing to explore and am on the look out for interesting problems in Quantum Cryptography as well. 
 
 Outside of Academic life, I often find myself engrossed in drawing. I always enjoyed scribbling doodles and cartoons on the corners of my class notes. Recently, I started doing digital art which I am uploading on Instagram [@manideep_doodles](https://www.instagram.com/{{ site.instagram }}). You can also check out the [Art](art) tab. I am a big fan of some Shounen anime/manga series, such as "One Piece" which I religiously follow. The photo above here is me cosplaying as Monkey D Luffy, the series' protagonist.
 
@@ -28,6 +32,8 @@ Outside of Academic life, I often find myself engrossed in drawing. I always enj
 
 ## Updates
 <div class="updates" style="height: 20em; overflow-y: scroll; text-align: left">
+
+[<i>Sep '23</i>] Started my PhD programme! Looking forward to working with all the lovely people at QuSoft :D 
 
 [<i>Dec '22</i>] Started a reading group with Pranab Sen and Upendra Kapshikar on "MIPstar=RE" result (More on "Talks" tab). Please let me know if you are interested to join!<br/> <br/>
 
