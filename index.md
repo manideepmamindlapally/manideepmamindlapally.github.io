@@ -21,12 +21,12 @@ Prior to joining QuSoft, I worked for a few months as a Junior Research Fellow a
 Before that I had done a dual-degree (5 yr. Bachelors + Masters) programme in Electronics engineering at **Indian Institute of Technology Kharagpur**, India where I was supervised by [_Amitalok J Budkuley_](http://www.facweb.iitkgp.ac.in/~amitalok/index.html). 
 During my final year, I worked with [_Andreas Winter_](https://www.icrea.cat/en/Web/ScientificStaff/awinter-556) on a summer project.
 
-I got introduced to academic research through my undergrad research in an Information Theoretic problem called "Commitment" for my bachelor thesis and then through a summer project in Quantum Information Theory.
+I got introduced to academic research through my undergrad research in an information theoretic problem called "Commitment" for my bachelor thesis and then through a summer project in Quantum Information Theory.
 I had breifly studied some classical cryptography works, quantum interactive proofs and non-local games during my stay at TIFR.
 
-Currently at QuSoft, I am working on a couple of Quantum Algorthimic problems. Although I am still continuing to explore and am on the look out for interesting problems in Quantum Cryptography as well. 
+Currently at QuSoft, I am working on a couple of Quantum Algorthimic problems. Although I am still exploring and am on the look out for interesting problems in Quantum Cryptography as well. 
 
-Outside of Academic life, I often find myself engrossed in drawing. I always enjoyed scribbling doodles and cartoons on the corners of my class notes. Recently, I started doing digital art which I am uploading on Instagram [@manideep_doodles](https://www.instagram.com/{{ site.instagram }}). You can also check out the [Art](art) tab. I am a big fan of some Shounen anime/manga series, such as "One Piece" which I religiously follow. The photo above here is me cosplaying as Monkey D Luffy, the series' protagonist.
+Outside of Academic life, I like to draw. I always enjoyed scribbling doodles and cartoons on the corners of my class notes. Recently, I started doing digital art which I am uploading on Instagram [@manideep_doodles](https://www.instagram.com/{{ site.instagram }}). You can also check out the [Art](art) tab. I am a big fan of some Shounen anime/manga series, such as "One Piece" which I religiously follow. The photo above here if you recognize is my Monkey D Luffy cosplay.
 
 ---
 
