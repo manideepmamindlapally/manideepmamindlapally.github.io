@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Manideep Mamindlapally
-description: Student | IIT Kharagpur | 人の夢は　終わらねェ！
+description: PhD Student | 人の夢は　終わらねェ！
 
 baseurl: / #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -25,7 +25,7 @@ researchgate: "Manideep-Mamindlapally"
 orcid: "0000-0002-8157-3972"
 googlescholar: "w-PmSxAAAAAJ"
 ieee: "37088954248"
-email: "manideepyx@iitkgp.ac.in"
+email: "m.mamindlapally@uva.nl"
 webofscience: "ABE-5317-2021"
 instagram: "manideep_doodles"
 
@@ -33,7 +33,7 @@ highlighter: rouge
 markdown: kramdown
 
 # Tracker
-analytics: "G-70TMRMK71X"
+# analytics: ""
 
 #optimization -> compress.html
 compress_html:

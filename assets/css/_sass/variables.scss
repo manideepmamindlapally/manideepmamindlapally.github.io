@@ -2,29 +2,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
 $heading-font-family: 'Special Elite', sans-serif; 
 $base-font-family: 'Special Elite', sans-serif;
-$base-font-size:   20px;
-$base-font-weight: 400;
+$base-font-size:   15px;
+$base-font-weight: 300;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.7;
 
 $spacing-unit:     30px;
 $text-color:       #333;
 $light-gray: #919191;
-$background-color: #deeed3;
-$brand-color:      #0e5517;
+$background-color: #ffffff;
+$brand-color:      #204358;
 
-$background-color-darken: #018f14;
+$background-color-darken: #ffffff;
 
 // Color scheme for light
-$body-bg: #edeee1;
-$projectbox: #ecf3e7;
+$body-bg: #f1f1f0;
+$projectbox: #f5f7f7;
 $text-color: rgb(20, 20, 20);
 
 // Color scheme for dark modes
-$body-bg-dark: #061725;
+$body-bg-dark:  #f1f1f0;
 $projectbox-dark: lighten($body-bg-dark, 10%);
-$text-color-dark: rgb(206, 206, 206);
-$brand-color-dark: #60c57e;
+$text-color-dark: rgb(20, 20, 20);
+$brand-color-dark: #204358;
 
 // Colour palette for project boxes
 $theme1: ("one",#388087),("two", #6FB3B8),("three",#BADFE7),("four",#C2EDCE),("five",#F6F6F2);

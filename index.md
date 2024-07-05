@@ -3,7 +3,7 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: profile.png
+  image: profile.jpeg
 published: true
 ---
 
@@ -26,24 +26,25 @@ I had breifly studied some classical cryptography works, quantum interactive pro
 
 Currently at QuSoft, I am working on a couple of Quantum Algorthimic problems. Although I am still exploring and am on the look out for interesting problems in Quantum Cryptography as well. 
 
-Outside of Academic life, I like to draw. I always enjoyed scribbling doodles and cartoons on the corners of my class notes. Recently, I started doing digital art which I am uploading on Instagram [@manideep_doodles](https://www.instagram.com/{{ site.instagram }}). You can also check out the [Art](art) tab. I am a big fan of some Shounen anime/manga series, such as "One Piece" which I religiously follow. The photo above here if you recognize is my Monkey D Luffy cosplay.
+<!-- Outside of Academic life, I like to draw. I always enjoyed scribbling doodles and cartoons on the corners of my class notes. Recently, I started doing digital art which I am uploading on Instagram [@manideep_doodles](https://www.instagram.com/{{ site.instagram }}). You can also check out the [Art](art) tab. I am a big fan of some Shounen anime/manga series, such as "One Piece" which I religiously follow. The photo above here if you recognize is my Monkey D Luffy cosplay. -->
 
 ---
 
 ## Updates
 <div class="updates" style="height: 20em; overflow-y: scroll; text-align: left">
 
-[<i>Sep '23</i>] Started my PhD programme! Looking forward to working with all the lovely people at QuSoft :D 
+[<i>Feb '24</i>] Travelled to attend QIP 2024 in Taiwan. Loved the place. I got a Gudetama themed Easycard! :D <br/><br/>
+
+[<i>Sep '23</i>] Started my PhD programme! Looking forward to working with all the lovely people at QuSoft :D <br/><br/> 
 
 [<i>Dec '22</i>] Started a reading group with Pranab Sen and Upendra Kapshikar on "MIPstar=RE" result (More on "Talks" tab). Please let me know if you are interested to join!<br/> <br/>
 
-[<i>Nov '22</i>] Attended ITW 2022 held at IIT Bombay, where I presented my paper on "Commitment over Unreliable Channels: When Awareness meets Control". I also volunteered for the first time at a conference. Assisting chairs, organising events and meeting lots of academics. It was fun and went mostly smooth, except for a couple of embarassing stints :).<br/> <br/>
+[<i>Nov '22</i>] Attended ITW 2022 held at IIT Bombay where I was presented a paper and volunteered for the first time at a conference. Assisting chairs, organising events and meeting lots of academics. It was fun and went mostly smooth, except for a couple of embarassing stints :).<br/> <br/>
 
 [<i>Oct '22</i>] Reviewed a journal paper now for the first time. Just submitted a review to IEEE Transactions in Information Theory. Proud to be part of the peer-review process.<br/> <br/>
 
-[<i>Oct '22</i>] Joined as a JRF at TIFR, Mumbai. Working on a security problem in Multi party computaion with Akshayaram Srinivasan. Lovely place and great people! I am getting to attend a ton of interesting lectures and colloqium talks.<br/> <br/>
+[<i>Oct '22</i>] Joined as a JRF at TIFR, Mumbai. Working on a security problem in Multi party computaion with Akshayaram Srinivasan. Lovely place and great people! <br/> <br/>
 
-[<i>Aug '22</i>] Started giving a series of (online) seminar talks on a couple of previous works on "Classical Verification of Quantum Computations" to Rahul Jain's group at CQT, NUS, Singapore. (Notes under the Talks tab)<br/> <br/>
 
 [<i>Jul '22</i>] Gave an invited seminar talk "On unconditionally secure commitment over unreliable noisy channels" (my masters thesis) at TUM, Germany. Many thanks to travel support from TUM and Andreas!<br/><br/>
 
